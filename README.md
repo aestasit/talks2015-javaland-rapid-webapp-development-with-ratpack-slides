@@ -1,8 +1,11 @@
 # Rapid web application development with Ratpack
 
-Slide deck of presentation "**Rapid web application development with Ratpack**" given at **JavaLand** (Bruhl, Germany), *2015* by *Andrey Adamovich*.
+Slide deck of presentation "**Rapid web application development with Groovy & Ratpack**" given at **JavaLand** (Bruhl, Germany), *2015* by *Andrey Adamovich*.
 
-Just clone the repository and open `slides.html` in your browser. Or alternitevely, go to <http://aestasit.github.io/talks2015-javaland-rapid-webapp-development-with-ratpack-slides/>.
+Just clone the repository and open `slides.html` in your browser. Or alternitevely, go to:
+
+- <http://aestasit.github.io/talks2015-javaland-rapid-webapp-development-with-ratpack-slides>
+- <http://www.slideshare.net/aestasit/rapid-web-application-development-with-groovy-ratpack-for-javaland-2015>
 
 Presentation description:
 
