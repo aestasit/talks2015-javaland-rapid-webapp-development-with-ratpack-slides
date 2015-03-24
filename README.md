@@ -1,4 +1,4 @@
-# Rapid web application development with Ratpack
+# Rapid web application development with Groovy & Ratpack
 
 Slide deck of presentation "**Rapid web application development with Groovy & Ratpack**" given at **JavaLand** (Bruhl, Germany), *2015* by *Andrey Adamovich*.
 
